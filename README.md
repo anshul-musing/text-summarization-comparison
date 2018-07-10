@@ -4,16 +4,17 @@ In this we compare a few Python libaries for Extractive text summarization.  In 
 
 We compare the following Python packages:
   
-1 Sumy
+1. Sumy
   * Luhn's algorithm
   * LSA (Latent Semantic Analysis)
   * TextRank
   * LexRank
   * SumBasic
   * KL Distance
-2 Gensim
-3 PyTeaser
-4 PyTextRank
+  
+2. Gensim
+3. PyTeaser
+4. PyTextRank
 
 ## Text summarization algorithms (quick overview)
 
