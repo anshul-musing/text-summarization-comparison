@@ -1,0 +1,37 @@
+
+####### From Sumy #######
+
+SumBasic
+Analytics Industry is all about obtaining the "Information" from the data. One such technique in the field of text mining is Topic Modelling.
+
+LSA
+Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection. Various professionals are using topic models for recruitment industries where they aim to extract latent features of job descriptions
+and map them to right candidates.
+
+LexRank
+Analytics Industry is all about obtaining the "Information" from the data. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
+
+KL
+As the name suggests, it is a process to automatically identify topics present in a text object and to derive hidden patterns exhibited by a text corpus. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
+
+Luhn
+One such technique in the field of text mining is Topic Modelling. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text
+ and feature selection.
+
+TextRank
+One such technique in the field of text mining is Topic Modelling. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
+
+
+####### From Gensim #######
+
+Topic Modelling is different from rule-based text mining approaches that use regular expressions or dictionary based keyword searching techniques. Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
+
+
+####### From PyTeaser #######
+
+Topic Modelling is different from rule-based text mining approaches that use regular expressions or dictionary based keyword searching techniques. One such technique in the field of text mining is Topic Modelling.
+
+
+####### From PyTextRank #######
+
+One such technique in the field of text mining is Topic Modelling.  Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
