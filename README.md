@@ -90,7 +90,7 @@ PyTextRank is another TextRank algorithm. It works in four stages, each feeding 
 
 ## Example text
 
-We use the following example text for the aforementioned algorithms:
+We use the following example text for the aforementioned algorithms.  The text is taken from [here]:
 
 "Analytics Industry is all about obtaining the "Information" from the data. With the growing amount of data in recent years, that too mostly unstructured, it's difficult to obtain the relevant and desired information. But, technology has developed some powerful methods which can be used to mine through the data and fetch the information that we are looking for.  One such technique in the field of text mining is Topic Modelling. As the name suggests, it is a process to automatically identify topics present in a text object and to derive hidden patterns exhibited by a text corpus. Thus, assisting better decision making.  Topic Modelling is different from rule-based text mining approaches that use regular expressions or dictionary based keyword searching techniques. It is an unsupervised approach used for finding and observing the bunch of words, called topics, in large clusters of texts.  Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection. For example, New York Times are using topic models to boost their user article recommendation engines. Various professionals are using topic models for recruitment industries where they aim to extract latent features of job descriptions and map them to right candidates. They are being used to organize large datasets of emails, customer reviews, and user social media profiles."
 
@@ -133,3 +133,4 @@ Topic Modelling is different from rule-based text mining approaches that use reg
 
 One such technique in the field of text mining is Topic Modelling.  Topic Models are very useful for the purpose for document clustering, organizing large blocks of textual data, information retrieval from unstructured text and feature selection.
 
+[here]: https://www.analyticsvidhya.com/blog/page/14/?catid=2013&id=28%3Awhy-study-analytics
