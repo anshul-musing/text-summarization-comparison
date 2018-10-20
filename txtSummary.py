@@ -102,9 +102,9 @@ def sumySummarize(filename, language="english", num_sents=1):
     summaries['SumBasic'] = getSummary(SumBasicSummarizer(stemmer))
     summaries['KL'] = getSummary(KLSummarizer(stemmer))
     
-    print ""
-    print "####### From Sumy #######"
-    print summaries
+    print("")
+    print("####### From Sumy #######")
+    print(summaries)
 
 
 def gensimSummarize(filename, coverage_fraction=0.2):
@@ -122,9 +122,9 @@ def gensimSummarize(filename, coverage_fraction=0.2):
     
     summary = summarize(text, coverage_fraction)
     
-    print ""
-    print "####### From Gensim #######"
-    print summary
+    print("")
+    print("####### From Gensim #######")
+    print(summary)
 
 
 def pyteasSummarize(filename, title, num_sents=1):
@@ -151,9 +151,9 @@ def pyteasSummarize(filename, title, num_sents=1):
     summary = Summarize(title, text)
     sents = " ".join([str(sentence) for sentence in summary[:num_sents]])
     
-    print ""
-    print "####### From PyTeaser #######"
-    print sents
+    print("")
+    print("####### From PyTeaser #######")
+    print(sents)
 
 
 def createJSON(filename):
@@ -227,8 +227,8 @@ def pytrankSummarize(filename):
     
     graf_text = " ".join(s)
     
-    print ""
-    print "####### From PyTextRank #######"
+    print("")
+    print("####### From PyTextRank #######")
     print("**excerpts:** %s\n\n**keywords:** %s" % (graf_text, phrases,))
     
 
@@ -241,7 +241,7 @@ def getAlgorithmChoice():
     print("3. PyTeaser")
     print("4. PyTextRank")
     print(" ")
-    ch = int(raw_input("Enter your choice: "))
+    ch = int(input("Enter your choice: "))
     return ch
     
 
